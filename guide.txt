@@ -1,0 +1,15 @@
+1) Create project with template
+
+vue init webpack assessment
+- use eslint : no
+- e2e test : no
+
+cd assessment
+
+npm install bootstrap jquery moment
+npm install axios
+npm run dev
+
+2) src > components
+- create new file : GithubSearch.vue
+- copy n paste
